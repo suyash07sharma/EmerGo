@@ -8,7 +8,7 @@ These instructions will help you get a copy of EmerGo's source code up and runni
 
 ### Installing
 
-```git clone https://github.com/Sadkoi/EmerGo.git```
+```git clone https://github.com/suyash07sharma/EmerGo.git```
 
 2. Open the project in Android Studio.
 
@@ -28,7 +28,7 @@ To use EmerGo, the user must allow write to storage permissions in their device'
 
 ## Contributing
 
-If you would like to contribute to the development of EmerGo, please reach out to Moinak.Das@stonybrook.edu.
+If you would like to contribute to the development of EmerGo, please reach out to suyash.sharma@stonybrook.edu
 
 ## License
 
